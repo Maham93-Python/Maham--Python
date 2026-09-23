@@ -1,0 +1,15 @@
+{
+    "name": "Maham",
+    "age": 33,
+    "country": "Pakistan",
+    "skills": ["Python", "GitHub", "AI"]
+}
+
+import json
+
+with open("data.json", "r") as file:
+    data = json.load(file)
+
+print(data)
+print(data["name"])
+print(data["country"])
