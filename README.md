@@ -1,6 +1,5 @@
-# Maham--Python
-Software Engineering, Python, Backend Development
 Student Grade Calculator
+
 This program ask user for their name and marks and calculate grade
 
 - 80 or above → A
