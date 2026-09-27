@@ -1,0 +1,8 @@
+using if/else condition with positive or negative number:
+number = -5
+if number > 0:
+    print ("positive")
+    elif number < 0:
+    print ("negative")
+      else:
+        print ("zero")
