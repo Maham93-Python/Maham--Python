@@ -1,0 +1,6 @@
+program if/else condition even or odd number:
+num = 25
+if num % 2 ==0:
+  print ("even number")
+else:
+  print ("odd number")
