@@ -1,0 +1,17 @@
+using if else condition with Operations:
+a = 5
+b = 10
+operation = "+"
+
+if operation == "+":
+    result = a + b
+elif operation == "-":
+    result = a - b
+elif operation == "*":
+    result = a * b
+elif operation == "/":
+    result = a / b
+else:
+    result = "invalid operation"
+
+print("result:", result)
